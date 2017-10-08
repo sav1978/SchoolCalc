@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<Obfuscator>
+  <Var name="InPath" value=".\SchoolCalc\bin\Debug" />
+  <Var name="OutPath" value=".\SchoolCalc\bin\Debug\obfuscar" />
+  <Var name="HidePrivateApi" value="true" /> 
+ <Var name="KeyFile" value=".\test.snk" />
+
+  <Module file="$(InPath)\SchoolCalc.exe" />
+</Obfuscator>

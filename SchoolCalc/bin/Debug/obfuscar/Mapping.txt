@@ -1,0 +1,222 @@
+Renamed Types:
+
+[SchoolCalc]SchoolCalc.Resources -> [SchoolCalc]A.a
+{
+	[SchoolCalc]SchoolCalc.Resources::get_ResourceManager[0]( ) -> A
+	[SchoolCalc]SchoolCalc.Resources::get_Culture[0]( ) -> a
+	[SchoolCalc]SchoolCalc.Resources::set_Culture[1]( [mscorlib]System.Globalization.CultureInfo ) -> A
+	[SchoolCalc]SchoolCalc.Resources::get_DebitCreditTotal[0]( ) -> B
+	[SchoolCalc]SchoolCalc.Resources::get_Expense[0]( ) -> b
+	[SchoolCalc]SchoolCalc.Resources::get_ScholarDebt[0]( ) -> C
+
+	[SchoolCalc]SchoolCalc.Resources::.ctor[0]( ) skipped:  special name
+
+	System.Resources.ResourceManager [SchoolCalc]System.Resources.ResourceManager SchoolCalc.Resources::resourceMan -> A
+	System.Globalization.CultureInfo [SchoolCalc]System.Globalization.CultureInfo SchoolCalc.Resources::resourceCulture -> A
+
+	System.Resources.ResourceManager [SchoolCalc]System.Resources.ResourceManager SchoolCalc.Resources::ResourceManager -> A
+	System.Globalization.CultureInfo [SchoolCalc]System.Globalization.CultureInfo SchoolCalc.Resources::Culture -> a
+	System.String [SchoolCalc]System.String SchoolCalc.Resources::DebitCreditTotal -> dropped
+	System.String [SchoolCalc]System.String SchoolCalc.Resources::Expense -> dropped
+	System.String [SchoolCalc]System.String SchoolCalc.Resources::ScholarDebt -> dropped
+}
+
+[SchoolCalc]SchoolCalc.Properties.Resources -> [SchoolCalc]A.B
+{
+	[SchoolCalc]SchoolCalc.Properties.Resources::get_ResourceManager[0]( ) -> A
+	[SchoolCalc]SchoolCalc.Properties.Resources::get_Culture[0]( ) -> a
+	[SchoolCalc]SchoolCalc.Properties.Resources::set_Culture[1]( [mscorlib]System.Globalization.CultureInfo ) -> A
+
+	[SchoolCalc]SchoolCalc.Properties.Resources::.ctor[0]( ) skipped:  special name
+
+	System.Resources.ResourceManager [SchoolCalc]System.Resources.ResourceManager SchoolCalc.Properties.Resources::resourceMan -> A
+	System.Globalization.CultureInfo [SchoolCalc]System.Globalization.CultureInfo SchoolCalc.Properties.Resources::resourceCulture -> A
+
+	System.Resources.ResourceManager [SchoolCalc]System.Resources.ResourceManager SchoolCalc.Properties.Resources::ResourceManager -> A
+	System.Globalization.CultureInfo [SchoolCalc]System.Globalization.CultureInfo SchoolCalc.Properties.Resources::Culture -> a
+}
+
+[SchoolCalc]SchoolCalc.Properties.Settings -> [SchoolCalc]A.b
+{
+	[SchoolCalc]SchoolCalc.Properties.Settings::get_Default[0]( ) -> A
+
+	[SchoolCalc]SchoolCalc.Properties.Settings::.ctor[0]( ) skipped:  special name
+	[SchoolCalc]SchoolCalc.Properties.Settings::.cctor[0]( ) skipped:  special name
+
+	SchoolCalc.Properties.Settings [SchoolCalc]SchoolCalc.Properties.Settings SchoolCalc.Properties.Settings::defaultInstance -> A
+
+	SchoolCalc.Properties.Settings [SchoolCalc]SchoolCalc.Properties.Settings SchoolCalc.Properties.Settings::Default -> dropped
+}
+
+[SchoolCalc]SchoolCalc.Program -> [SchoolCalc]A.A
+{
+	[SchoolCalc]SchoolCalc.Program::Main[0]( ) -> A
+}
+
+Skipped Types:
+
+[SchoolCalc]SchoolCalc.CreditForm skipped:  KeepPublicApi option in configuration
+{
+	[SchoolCalc]SchoolCalc.CreditForm::DebitForm_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> A
+	[SchoolCalc]SchoolCalc.CreditForm::DebitForm_FormClosing[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosingEventArgs ) -> A
+	[SchoolCalc]SchoolCalc.CreditForm::InitializeComponent[0]( ) -> A
+
+	[SchoolCalc]SchoolCalc.CreditForm::.ctor[0]( ) skipped:  special name
+	[SchoolCalc]SchoolCalc.CreditForm::ProcessCmdKey[2]( [System.Windows.Forms]System.Windows.Forms.Message&, [System.Windows.Forms]System.Windows.Forms.Keys ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.CreditForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+
+	System.Data.DataTable [SchoolCalc]System.Data.DataTable SchoolCalc.CreditForm::dt -> A
+	System.ComponentModel.IContainer [SchoolCalc]System.ComponentModel.IContainer SchoolCalc.CreditForm::components -> A
+	System.Windows.Forms.DataGridView [SchoolCalc]System.Windows.Forms.DataGridView SchoolCalc.CreditForm::grdCredits -> A
+	System.Windows.Forms.DataGridViewComboBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewComboBoxColumn SchoolCalc.CreditForm::expense -> A
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.CreditForm::desc -> A
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.CreditForm::amount -> a
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.CreditForm::rowid -> B
+}
+
+[SchoolCalc]SchoolCalc.Globals skipped:  KeepPublicApi option in configuration
+{
+
+	[SchoolCalc]SchoolCalc.Globals::.ctor[0]( ) skipped:  special name
+	[SchoolCalc]SchoolCalc.Globals::.cctor[0]( ) skipped:  special name
+
+
+	System.String [SchoolCalc]System.String SchoolCalc.Globals::DbName skipped:  KeepPublicApi option in configuration
+	System.String [SchoolCalc]System.String SchoolCalc.Globals::Version skipped:  KeepPublicApi option in configuration
+	System.String [SchoolCalc]System.String SchoolCalc.Globals::Saldo_2016_2017 skipped:  KeepPublicApi option in configuration
+	System.Data.SQLite.SQLiteConnection [SchoolCalc]System.Data.SQLite.SQLiteConnection SchoolCalc.Globals::Connection skipped:  KeepPublicApi option in configuration
+}
+
+[SchoolCalc]SchoolCalc.DebitForm skipped:  KeepPublicApi option in configuration
+{
+	[SchoolCalc]SchoolCalc.DebitForm::DebitForm_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> A
+	[SchoolCalc]SchoolCalc.DebitForm::DebitForm_FormClosing[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosingEventArgs ) -> A
+	[SchoolCalc]SchoolCalc.DebitForm::InitializeComponent[0]( ) -> A
+
+	[SchoolCalc]SchoolCalc.DebitForm::ProcessCmdKey[2]( [System.Windows.Forms]System.Windows.Forms.Message&, [System.Windows.Forms]System.Windows.Forms.Keys ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.DebitForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.DebitForm::.ctor[0]( ) skipped:  special name
+
+	System.Data.DataTable [SchoolCalc]System.Data.DataTable SchoolCalc.DebitForm::dt -> A
+	System.ComponentModel.IContainer [SchoolCalc]System.ComponentModel.IContainer SchoolCalc.DebitForm::components -> A
+	System.Windows.Forms.DataGridView [SchoolCalc]System.Windows.Forms.DataGridView SchoolCalc.DebitForm::grdDebits -> A
+	System.Windows.Forms.DataGridViewComboBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewComboBoxColumn SchoolCalc.DebitForm::scholar -> A
+	System.Windows.Forms.DataGridViewComboBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewComboBoxColumn SchoolCalc.DebitForm::goal -> a
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.DebitForm::amount -> A
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.DebitForm::rowid -> a
+}
+
+[SchoolCalc]SchoolCalc.MainForm skipped:  KeepPublicApi option in configuration
+{
+	[SchoolCalc]SchoolCalc.MainForm::Form1_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> A
+	[SchoolCalc]SchoolCalc.MainForm::MainForm_FormClosed[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosedEventArgs ) -> A
+	[SchoolCalc]SchoolCalc.MainForm::btnScholars_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> a
+	[SchoolCalc]SchoolCalc.MainForm::btnGoals_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> B
+	[SchoolCalc]SchoolCalc.MainForm::btnDebit_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> b
+	[SchoolCalc]SchoolCalc.MainForm::btnCredit_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> C
+	[SchoolCalc]SchoolCalc.MainForm::btnReports_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> c
+	[SchoolCalc]SchoolCalc.MainForm::btnExpense_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> D
+	[SchoolCalc]SchoolCalc.MainForm::InitializeComponent[0]( ) -> A
+
+	[SchoolCalc]SchoolCalc.MainForm::ProcessCmdKey[2]( [System.Windows.Forms]System.Windows.Forms.Message&, [System.Windows.Forms]System.Windows.Forms.Keys ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.MainForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.MainForm::.ctor[0]( ) skipped:  special name
+
+	System.ComponentModel.IContainer [SchoolCalc]System.ComponentModel.IContainer SchoolCalc.MainForm::components -> A
+	System.Windows.Forms.Button [SchoolCalc]System.Windows.Forms.Button SchoolCalc.MainForm::btnScholars -> A
+	System.Windows.Forms.Button [SchoolCalc]System.Windows.Forms.Button SchoolCalc.MainForm::btnGoals -> a
+	System.Windows.Forms.Button [SchoolCalc]System.Windows.Forms.Button SchoolCalc.MainForm::btnDebit -> B
+	System.Windows.Forms.Button [SchoolCalc]System.Windows.Forms.Button SchoolCalc.MainForm::btnCredit -> b
+	System.Windows.Forms.Button [SchoolCalc]System.Windows.Forms.Button SchoolCalc.MainForm::btnReports -> C
+	System.Windows.Forms.Button [SchoolCalc]System.Windows.Forms.Button SchoolCalc.MainForm::btnExpense -> c
+	System.Windows.Forms.Label [SchoolCalc]System.Windows.Forms.Label SchoolCalc.MainForm::lblVersion -> A
+}
+
+[SchoolCalc]SchoolCalc.GoalsForm skipped:  KeepPublicApi option in configuration
+{
+	[SchoolCalc]SchoolCalc.GoalsForm::GoalsForm_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> A
+	[SchoolCalc]SchoolCalc.GoalsForm::GoalsForm_FormClosing[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosingEventArgs ) -> A
+	[SchoolCalc]SchoolCalc.GoalsForm::InitializeComponent[0]( ) -> A
+
+	[SchoolCalc]SchoolCalc.GoalsForm::ProcessCmdKey[2]( [System.Windows.Forms]System.Windows.Forms.Message&, [System.Windows.Forms]System.Windows.Forms.Keys ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.GoalsForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.GoalsForm::.ctor[0]( ) skipped:  special name
+
+	System.Data.DataTable [SchoolCalc]System.Data.DataTable SchoolCalc.GoalsForm::dt -> A
+	System.ComponentModel.IContainer [SchoolCalc]System.ComponentModel.IContainer SchoolCalc.GoalsForm::components -> A
+	System.Windows.Forms.DataGridView [SchoolCalc]System.Windows.Forms.DataGridView SchoolCalc.GoalsForm::grdGoals -> A
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.GoalsForm::desc -> A
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.GoalsForm::per_scholar -> a
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.GoalsForm::rowid -> B
+}
+
+[SchoolCalc]SchoolCalc.ReportsForm skipped:  KeepPublicApi option in configuration
+{
+	[SchoolCalc]SchoolCalc.ReportsForm::button1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> A
+	[SchoolCalc]SchoolCalc.ReportsForm::ShowReport[1]( [Stimulsoft.Report]Stimulsoft.Report.StiReport ) -> A
+	[SchoolCalc]SchoolCalc.ReportsForm::button2_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> a
+	[SchoolCalc]SchoolCalc.ReportsForm::ReportsForm_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> B
+	[SchoolCalc]SchoolCalc.ReportsForm::button3_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> b
+	[SchoolCalc]SchoolCalc.ReportsForm::InitializeComponent[0]( ) -> A
+
+	[SchoolCalc]SchoolCalc.ReportsForm::ProcessCmdKey[2]( [System.Windows.Forms]System.Windows.Forms.Message&, [System.Windows.Forms]System.Windows.Forms.Keys ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.ReportsForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.ReportsForm::.ctor[0]( ) skipped:  special name
+
+	System.Data.DataTable [SchoolCalc]System.Data.DataTable SchoolCalc.ReportsForm::dtExp -> A
+	System.ComponentModel.IContainer [SchoolCalc]System.ComponentModel.IContainer SchoolCalc.ReportsForm::components -> A
+	System.Windows.Forms.Button [SchoolCalc]System.Windows.Forms.Button SchoolCalc.ReportsForm::button1 -> A
+	System.Windows.Forms.Button [SchoolCalc]System.Windows.Forms.Button SchoolCalc.ReportsForm::button2 -> a
+	System.Windows.Forms.GroupBox [SchoolCalc]System.Windows.Forms.GroupBox SchoolCalc.ReportsForm::groupBox1 -> A
+	System.Windows.Forms.Button [SchoolCalc]System.Windows.Forms.Button SchoolCalc.ReportsForm::button3 -> B
+	System.Windows.Forms.ComboBox [SchoolCalc]System.Windows.Forms.ComboBox SchoolCalc.ReportsForm::cmbExpense -> A
+}
+
+[SchoolCalc]SchoolCalc.ExpenseForm skipped:  KeepPublicApi option in configuration
+{
+	[SchoolCalc]SchoolCalc.ExpenseForm::ScholarsForm_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> A
+	[SchoolCalc]SchoolCalc.ExpenseForm::ScholarsForm_FormClosing[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosingEventArgs ) -> A
+	[SchoolCalc]SchoolCalc.ExpenseForm::InitializeComponent[0]( ) -> A
+
+	[SchoolCalc]SchoolCalc.ExpenseForm::ProcessCmdKey[2]( [System.Windows.Forms]System.Windows.Forms.Message&, [System.Windows.Forms]System.Windows.Forms.Keys ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.ExpenseForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.ExpenseForm::.ctor[0]( ) skipped:  special name
+
+	System.Data.DataTable [SchoolCalc]System.Data.DataTable SchoolCalc.ExpenseForm::dt -> A
+	System.ComponentModel.IContainer [SchoolCalc]System.ComponentModel.IContainer SchoolCalc.ExpenseForm::components -> A
+	System.Windows.Forms.DataGridView [SchoolCalc]System.Windows.Forms.DataGridView SchoolCalc.ExpenseForm::grdExpense -> A
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.ExpenseForm::desc -> A
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.ExpenseForm::rowid -> a
+}
+
+[SchoolCalc]SchoolCalc.ScholarsForm skipped:  KeepPublicApi option in configuration
+{
+	[SchoolCalc]SchoolCalc.ScholarsForm::ScholarsForm_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) -> A
+	[SchoolCalc]SchoolCalc.ScholarsForm::ScholarsForm_FormClosing[2]( [mscorlib]System.Object, [System.Windows.Forms]System.Windows.Forms.FormClosingEventArgs ) -> A
+	[SchoolCalc]SchoolCalc.ScholarsForm::InitializeComponent[0]( ) -> A
+
+	[SchoolCalc]SchoolCalc.ScholarsForm::ProcessCmdKey[2]( [System.Windows.Forms]System.Windows.Forms.Message&, [System.Windows.Forms]System.Windows.Forms.Keys ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.ScholarsForm::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+	[SchoolCalc]SchoolCalc.ScholarsForm::.ctor[0]( ) skipped:  special name
+
+	System.Data.DataTable [SchoolCalc]System.Data.DataTable SchoolCalc.ScholarsForm::dt -> A
+	System.ComponentModel.IContainer [SchoolCalc]System.ComponentModel.IContainer SchoolCalc.ScholarsForm::components -> A
+	System.Windows.Forms.DataGridView [SchoolCalc]System.Windows.Forms.DataGridView SchoolCalc.ScholarsForm::grdScholars -> A
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.ScholarsForm::name -> A
+	System.Windows.Forms.DataGridViewTextBoxColumn [SchoolCalc]System.Windows.Forms.DataGridViewTextBoxColumn SchoolCalc.ScholarsForm::rowid -> a
+}
+
+Renamed Resources:
+
+SchoolCalc.Resources.resources -> A.a.resources
+SchoolCalc.Properties.Resources.resources -> A.B.resources
+
+Skipped Resources:
+
+SchoolCalc.CreditForm.resources (KeepPublicApi option in configuration)
+SchoolCalc.DebitForm.resources (KeepPublicApi option in configuration)
+SchoolCalc.MainForm.resources (KeepPublicApi option in configuration)
+SchoolCalc.GoalsForm.resources (KeepPublicApi option in configuration)
+SchoolCalc.ReportsForm.resources (KeepPublicApi option in configuration)
+SchoolCalc.ExpenseForm.resources (KeepPublicApi option in configuration)
+SchoolCalc.ScholarsForm.resources (KeepPublicApi option in configuration)

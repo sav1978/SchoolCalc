@@ -1,0 +1,99 @@
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\SchoolCalc.exe.config
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\SchoolCalc.exe
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\SchoolCalc.pdb
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\System.Data.SQLite.dll
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.Properties.Resources.resources
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.csproj.GenerateResource.Cache
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.exe
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.pdb
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\SQLite.Interop.dll
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.MainForm.resources
+c:\users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.ScholarsForm.resources
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.GoalsForm.resources
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.DebitForm.resources
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.CreditForm.resources
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.Resources.resources
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Base.dll
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.dll
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Base.xml
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.xml
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.ReportsForm.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.ExpenseForm.resources
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\bin\Debug\sqlite3.dll
+C:\Users\sdavydov\documents\visual studio 2013\Projects\SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.csprojResolveAssemblyReference.cache
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\SchoolCalc.exe.config
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.exe
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.pdb
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\SQLite.Interop.dll
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\sqlite3.dll
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\System.Data.SQLite.dll
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\SchoolCalc.exe
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\SchoolCalc.pdb
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Base.dll
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.dll
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Base.xml
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.xml
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.csprojResolveAssemblyReference.cache
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.CreditForm.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.DebitForm.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.MainForm.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.Properties.Resources.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.GoalsForm.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.ReportsForm.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.Resources.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.ExpenseForm.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.ScholarsForm.resources
+C:\Users\sdavydov\Documents\Visual Studio 2013\Projects\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\SchoolCalc.exe.config
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.exe
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.pdb
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\SQLite.Interop.dll
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\sqlite3.dll
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\SchoolCalc.exe
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\SchoolCalc.pdb
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Base.xml
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.xml
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.CreditForm.resources
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.DebitForm.resources
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.MainForm.resources
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.Properties.Resources.resources
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.GoalsForm.resources
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.ReportsForm.resources
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.Resources.resources
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.ExpenseForm.resources
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.ScholarsForm.resources
+C:\Users\user\Desktop\ForAnton\src\_SchoolCalc\SchoolCalc\obj\Debug\SchoolCalc.csproj.GenerateResource.Cache
